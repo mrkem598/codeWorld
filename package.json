@@ -1,12 +1,12 @@
 {
-  "name": "react-essential",
+  "name": "codeWorld(react-",
   "version": "1.0.0",
-  "description": "A project focusing on React and related tools",
+  "description": "codeWorld is a project developed on React and related tools to get imput from the user , make a record according to the date and display it.",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server"
   },
-  "author": "Eve Porcello",
+  "author": "Mohammed Kemal",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
